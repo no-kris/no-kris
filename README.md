@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Kris
-- :man_student: I'm a student at Florida State, studying computer science
-- 🌱 I've taken various courses that have given me a strong foundation in programming languages, data structures and algorithms, and software development.
-- 💞️ Some of my interests include AI, and web development.
-- 📫 You can reach me via email at kris.tresk@Gmail.com. I'm always open to connecting with new people in the industry, so feel free to reach out!
+👋 Hi, I’m Kris!
 
+💻 Aspiring Software Engineer
+🎓 Recent Computer Science grad at Florida State University. (2024)
+
+🔗 What I’m Working On:
+
+   Exploring algorithms, data structures, and artificial intelligence
+   Enhancing my knowledge on creating web applications with Python frameworks like FastAPI
+
+📫 Connect with Me:
+
+   LinkedIn: linkedin.com/in/kris-treska
 
